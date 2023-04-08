@@ -104,7 +104,7 @@ for(var x=0;x<service.length;x++){
     var servic=service[x];
     servic.addEventListener("mouseenter",servicDark);
     function servicDark(e){
-    e.target.style.backgroundColor="#363636";
+    e.target.style.backgroundColor="rgba(42, 44, 57)";
 }
 
 servic.addEventListener("mouseleave",servicLight);

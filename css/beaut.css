@@ -88,9 +88,15 @@ form.php-email-form{
 
 
 
-
-
-
+/*=============== PRODUCT services ===================*/
+#icon-box{
+    background-color: white;
+    color: black;
+}
+#icon-box:hover{
+    background-color: rgba(42, 44, 57);
+    color: white;
+}
 
 
 
